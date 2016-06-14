@@ -1,6 +1,6 @@
 # Welcome to Trello Availability
 
-This App will help you keep track of whos in your office
+This App will help you keep track of who is in your office
 
 ## This application consists of:
 
@@ -20,4 +20,4 @@ This App will help you keep track of whos in your office
 *   Open a web browser, and navigate to http://localhost:5000
     ### Windows
 
-I'd would love to hear your eric.l.hislop@gmail.com
+I would love to hear your feedback eric.l.hislop@gmail.com
